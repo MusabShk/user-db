@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import AddUserButton from "./Components/AddUserButton";
 import Users from "./Components/Users";
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 
 const dummy_users = [
   {
