@@ -1,0 +1,7 @@
+.col-6.invalid label {
+  color: red;
+}
+
+.col-6.invalid input {
+  border-color: red;
+}
