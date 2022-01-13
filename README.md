@@ -1,6 +1,6 @@
 # user-db (User database)
 
-A Web App build using React.js to create user database </br>
+A Web App build using React.js and bootstrap 5.0 to create user database </br>
 
 Data that can be added :
 1. Name of the user 
